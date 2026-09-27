@@ -1,0 +1,11 @@
+order_id,customer,product,category,quantity,unit_price,country
+1001,Anna Kowalska,Laptop,Electronics,1,3500,Poland
+1002,Jan Nowak,Mouse,Electronics,2,120,Poland
+1003,Emily Smith,Keyboard,Electronics,1,250,UK
+1004,Piotr Zielinski,Monitor,Electronics,2,900,Poland
+1005,John Brown,Desk,Office,1,1200,USA
+1006,Anna Kowalska,Webcam,Electronics,1,300,Poland
+1007,Emily Smith,Chair,Office,2,700,UK
+1008,Piotr Zielinski,Mouse,Electronics,3,120,Poland
+1009,John Brown,Desk Lamp,Office,4,150,USA
+1010,Anna Kowalska,Headphones,Electronics,1,450,Poland
